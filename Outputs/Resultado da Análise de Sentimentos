@@ -1,1 +1,12 @@
+#Sentence Sentiment           
+0.00% Positivo, 1.00% Neutro, 98% Negativo.
+
+#Opinion
+Target: Hotel
+Assesments: Tired (99% Negative)
+
+
+#Opinion
+Target: Services
+Assesments: Poor (99% Negative)
 
